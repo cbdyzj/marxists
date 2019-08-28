@@ -1,6 +1,7 @@
 # Marxists
 
 - [Marxists Internet Archive](https://www.marxists.org/)
+- [中文马克思主义文库](https://www.marxists.org/chinese/)
 
 ## Articles
 
